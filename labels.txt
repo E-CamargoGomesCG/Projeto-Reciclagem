@@ -1,0 +1,5 @@
+0 metal
+1 plastico
+2 papel
+3 vidro
+4 vazio
